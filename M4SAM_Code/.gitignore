@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+**.pyc
+checkpoints/*
+!checkpoints/download_sam_ckpt.sh
+**/__pycache__/
+**/.ipynb_checkpoints/
+results/
+logs/
+runs/
+results_*.txt
+*.pyd
+.DS_Store
